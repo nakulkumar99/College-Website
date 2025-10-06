@@ -4,7 +4,7 @@
 
 Welcome to the College Website project! This is a multipage website designed to help users understand more about the college, its programs, and provide essential information about admissions, campus life, courses, and more. 
 
-## Features
+## Features 
 - Interactive design 
 - Live previews
 - Fullscreen mode
